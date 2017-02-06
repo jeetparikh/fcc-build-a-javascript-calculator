@@ -7,3 +7,7 @@ The project was bootstrap using **create-react-app**.
 In order to use this project, you must `git clone` it and run `npm install`.
 
 In order to run this project and develop something new and/or modify it, run `npm run start` which starts a webpack development server. For detailed instructions, you can refer the **create-react-app** documentation page [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
+
+# Credits
+The styles for this project have been borrowed from this [codepen] (https://codepen.io/freeCodeCamp/full/rLJZrA)
+by **Justin Woodward**
